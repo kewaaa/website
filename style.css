@@ -1,0 +1,241 @@
+header{
+
+	margin-top: -22px;
+	margin-left: -10px;
+	margin-right: -8px;
+	background-color: #eaf6f6;
+
+
+
+}
+
+.cloud1{
+
+text-align: center;
+padding-top: 50px;
+padding-left: 600px;
+
+}
+
+
+h1{
+
+	color: #66bfbf;
+	font-family: 'Sacramento', cursive;
+	text-align: center;
+	font-size: 60px;
+}
+
+
+h2{		
+
+	font-family: 'Montserrat', sans-serif;
+	color:#66bfbf;
+	text-align: center;
+	padding-top: 50px;
+
+
+
+}
+
+.cloud2{
+
+text-align: center;
+padding-top: 50px;
+padding-right: 600px;
+
+}
+
+
+.mount{
+
+
+		text-align: center;
+
+}
+
+
+.mypic{
+
+	text-align: center;
+	margin-top: 100px;
+
+}
+
+
+.para1{
+
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-weight: bold;
+	color: #40514e;
+}
+
+
+
+h4{
+
+
+	color: #eaf6f6;
+	text-align: center;
+	font-size: 50px;
+}
+
+
+.code{
+
+	float: left;
+	margin-left: 250px;
+	margin-right: 20px;
+}
+
+
+h3{
+
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	color: #11999e;
+}
+
+
+.para2{
+
+	text-align: left;
+	font-family: 'Merriweather', serif;
+	font-weight: bold;
+	color: #40514e;
+	}
+
+
+.clear{
+
+	clear: both;
+
+	}
+
+
+.chillies{
+
+	float: right;
+	margin-right: 200px;
+}
+
+
+
+.chall{
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	color: #11999e;
+	margin-left: 250px;
+
+
+}
+
+
+.para3{
+
+	text-align: left;
+	font-family: 'Merriweather', serif;
+	font-weight: bold;
+	color: #40514e;
+	margin-left: 250px;
+
+
+}
+
+
+.lovehot{
+font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	color: #11999e;
+
+
+}
+
+.para4{
+
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-weight: bold;
+	color: #40514e;
+	
+
+
+}
+
+
+.button{
+
+	text-align: center;
+
+}
+
+
+
+.but{
+	font-weight: bold; 
+	font-family:'Montserrat', serif; 
+	background-color: #66bfbf; 
+	color: white; 
+	border-color: white; 
+	border-radius: 7px; 
+	height: 40px; 
+	width: 130px;
+
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+footer{
+
+
+	background-color: #66bfbf;
+	margin-left: -10px;
+	margin-right: -8px;
+	margin-bottom: -7px;
+}
+
+
+
+.footer {
+	
+	
+	text-align:center;
+	font-size:18px;
+	padding: 40px;
+	word-spacing: 50px;
+}
+
+a{
+
+
+	font-family: sans-serif;
+	font-weight: bolder;
+	text-align: left;
+	color: #11999e;
+	text-decoration: none;
+}
+
+
+a:hover{
+
+	color: white;
+}
+
+a:active{
+
+	color: black;
+}
+
+
+.text{
+
+	text-align: center;
+	color: #eaf6f6;
+	font-family: 'Montserrat',sans-serif;
+	font-weight: bold;
+	margin-bottom: -10px;
+	padding-bottom: 100px;
+	
+}
